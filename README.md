@@ -1,5 +1,5 @@
 # Hospital-Management-System
-The project, Hospital Management system using Java, JFrame and SQL as Database.
+The project, Hospital Management system uses Java, JFrame and SQL as Database.
 
 ## *Harsh Rajotiya*
 
