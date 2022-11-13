@@ -12,3 +12,9 @@ Time spent: **15** hours spent in total
 Here's some of the screenshots of the project:
 
 <img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(493).png' width="750" height="400"/>
+<img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(493).png' width="750" height="400"/>
+<img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(493).png' width="750" height="400"/>
+<img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(493).png' width="750" height="400"/>
+<img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(493).png' width="750" height="400"/>
+<img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(493).png' width="750" height="400"/>
+<img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(493).png' width="750" height="400"/>
