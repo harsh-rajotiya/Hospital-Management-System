@@ -7,3 +7,8 @@ The project, Hospital Management system using Java, JFrame and SQL as Database.
 
 Time spent: **15** hours spent in total
 
+## Screenshots:
+
+Here's some of the screenshots of the project:
+
+<img src='https://github.com/harsh-rajotiya/Tipped/blob/main/tipcalculatorgif.gif' width="250" height="500"/>
