@@ -17,3 +17,4 @@ Here's some of the screenshots of the project:
 <img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/1%20Arun-1.png' width="500" height="750"/>
 <img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(499).png' width="750" height="400"/>
 <img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(505).png' width="750" height="400"/>
+<img src='https://github.com/harsh-rajotiya/Hospital-Management-System/blob/main/Screenshot%20(505).png' width="750" height="400"/>
